@@ -1,1 +1,2 @@
 # LibraryManagement
+ Library Management System developed using Core Java, MySQL, and JDBC. It helps a library manage books and student registrations efficiently. The system allows admins to add books, update book details, and register students. Students can search for books, borrow them, and return them. The backend database is MySQL, and I used JDBC to connect Java with MySQL for data storage and retrieval
